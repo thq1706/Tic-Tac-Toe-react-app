@@ -9,7 +9,7 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   },
-  "homepage": "http://thq1706.github.io/tic-tac-toe-react",
+  "homepage": "http://thq1706.github.io/Tic-Tac-Toe-react-app",
   "name": "tic-tac-toe-react",
   "description": "",
   "version": "0.0.0",
